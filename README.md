@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @sharma11122
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development
+- 📫 sharma11122abhi@gmail.com
 
 <!---
 sharma11122/sharma11122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 👋 Hi, I’m @Abhi Sharma
- -Web Developer
- -Dil Maange More
+ 
