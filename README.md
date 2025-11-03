@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sharma11122
-- 👀 I’m interested in Web Development
+- 👀 Always learning, always adapting — I love tackling tough problems and finding the best solutions."
+- Web Developer , UI UX , Data Anyalst , Graphic Designer , SAM Consultant 
 - 📫 sharma11122abhi@gmail.com
 
 <!---
